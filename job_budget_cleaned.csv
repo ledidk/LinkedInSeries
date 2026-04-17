@@ -1,0 +1,9 @@
+Date Applied,Company,Role,Status,Salary Range,Applied Via,Notes,Follow Up Date,Interview Date,Offer Amount,Rent,Utilities,Groceries,Transport,Entertainment,Savings,Salary_Range_Low,Salary_Offer,Rent_to_Income,Rent_Affordable
+2024-01-15,Tech Corp,Data Analyst,Rejected,70k-80k,LinkedIn,,,,,1500,120,400,100,200,500,70.0,0.0,inf,False
+2024-01-25,DataSolve,Data Analyst,Interview,75k-85k,Company Website,2nd round next week,2024-02-01,2024-02-05,,1600,130,420,120,220,600,75.0,0.0,inf,False
+2024-02-05,Tech Corp,Data Analyst,No Response,70k-80k,LinkedIn,ghosted,,2024-02-05,,1450,115,390,95,190,480,70.0,0.0,inf,False
+2024-02-15,Insight Solutions,Data Analyst,Offer,80k-90k,Recruiter,negotiating salary,2024-02-20,2024-02-12,85000.0,1550,125,410,110,210,550,80.0,85000.0,0.2188235294117647,True
+2024-02-20,DataSolve,Senior Analyst,Interview,90k-100k,LinkedIn,stretch role,2024-02-25,2024-02-28,,1650,135,440,130,240,620,90.0,0.0,inf,False
+2024-03-01,Tech Corp,Data Analyst,Rejected,75k-85k,Referral,finally got interview but rejected,,2024-03-05,,1500,120,400,100,200,500,75.0,0.0,inf,False
+2024-03-10,FinTech Inc,Data Analyst,Interview,85k-95k,LinkedIn,case study round,2024-03-15,2024-03-18,,1700,140,460,140,260,650,85.0,0.0,inf,False
+2024-03-15,HealthData,Junior Analyst,Applied,60k-70k,Indeed,entry level,2024-03-20,2024-03-18,,1400,110,380,90,180,450,60.0,0.0,inf,False
